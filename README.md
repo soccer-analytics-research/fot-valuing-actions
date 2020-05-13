@@ -12,7 +12,7 @@ This introductory presentation, which was given in the [Friends of Tracking](htt
 ### Presentation: Valuing actions in football ([video](https://www.youtube.com/watch?v=xyyZLs_N1F0), [slides](https://drive.google.com/open?id=1t-jPgQFjZ7K4HRduaZWexUOMOmc1XR9H1jVWwaZYsOU))
 This presentation expands on the content of the introductory presentation by discussing the technicalities behind the VAEP framework for valuing actions of football players as well as the content of the hands-on video tutorials in more depth.
 
-### Tutorial 1: Run pipeline ([notebook](notebooks/tutorial1-run-pipeline.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial1-run-pipeline.ipynb))
+### Tutorial 1: Run pipeline ([video](https://www.youtube.com/watch?v=0ol_eLLEQ64), [notebook](notebooks/tutorial1-run-pipeline.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial1-run-pipeline.ipynb))
 This tutorial demonstrates the entire pipeline of ingesting the raw Wyscout match event data to producing ratings for football players. This tutorial touches upon the following four topics: downloading and preprocessing the data, valuing game states, valuing actions and rating players.
 
 ### Tutorial 2: Generate features
