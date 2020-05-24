@@ -15,8 +15,8 @@ This presentation expands on the content of the introductory presentation by dis
 ### Tutorial 1: Run pipeline ([video](https://www.youtube.com/watch?v=0ol_eLLEQ64), [notebook](notebooks/tutorial1-run-pipeline.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial1-run-pipeline.ipynb))
 This tutorial demonstrates the entire pipeline of ingesting the raw Wyscout match event data to producing ratings for football players. This tutorial touches upon the following four topics: downloading and preprocessing the data, valuing game states, valuing actions and rating players.
 
-### Tutorial 2: Generate features
-This tutorial will appear soon.
+### Tutorial 2: Generate features ([video](https://www.youtube.com/watch?v=Ep9wXQgAFaE), [notebook](notebooks/tutorial2-generate-features.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial2-generate-features.ipynb))
+This tutorial demonstrates the process of generating features and labels. This tutorial touches upon the following three topics: exploring the data in the SPADL representation, constructing features to represent actions and constructing features to represent game states.
 
 ### Tutorial 3: Learn models
 This tutorial will appear soon.
