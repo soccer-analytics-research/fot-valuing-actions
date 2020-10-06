@@ -18,11 +18,11 @@ This tutorial demonstrates the entire pipeline of ingesting the raw Wyscout matc
 ### Tutorial 2: Generate features ([video](https://www.youtube.com/watch?v=Ep9wXQgAFaE), [notebook](notebooks/tutorial2-generate-features.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial2-generate-features.ipynb))
 This tutorial demonstrates the process of generating features and labels. This tutorial touches upon the following three topics: exploring the data in the SPADL representation, constructing features to represent actions and constructing features to represent game states.
 
-### Tutorial 3: Learn models ([notebook](notebooks/tutorial3-learn-models.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial3-learn-models.ipynb))
+### Tutorial 3: Learn models ([video](https://www.youtube.com/watch?v=WlORqYIb-Gg), [notebook](notebooks/tutorial3-learn-models.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial3-learn-models.ipynb))
 This tutorial demonstrates the process of splitting the dataset into a training set and a test set, learning baseline models using conservative hyperparameters for the learning algorithm, optimizing the hyperparameters for the learning algorithm and learning the final models.
 
-### Tutorial 4: Analyze models and results
-This tutorial will appear soon.
+### Tutorial 4: Analyze models and results ([video](https://www.youtube.com/watch?v=w9G0z3eGCj8), [notebook](notebooks/tutorial4-analyze-models-and-results.ipynb), [notebook on Google Colab](https://colab.research.google.com/github/SciSports-Labs/fot-valuing-actions/blob/master/notebooks/tutorial4-analyze-models-and-results.ipynb))
+This tutorial demonstrates the process of analyzing the importance of the features that are included in the trained machine learning models, analyzing the predictions for specific game states, and analyzing the resulting player ratings.
 
 
 ## References
