@@ -2,7 +2,11 @@
 
 This repository provides presentations and tutorials that demonstrate how to value on-the-ball actions in football.
 
-The tutorials use the open-source [socceraction](https://github.com/ML-KULeuven/socceraction) Python library and the publicly available [Wyscout match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000). The dataset includes data for the 2017/2018 English Premier League, the 2017/2018 Spanish Primera División, the 2017/2018 German 1. Bundesliga, the 2017/2018 Italian Serie A, the 2017/2018 French Ligue 1, the 2018 FIFA World Cup and the UEFA Euro 2016. The dataset covers 1,941 matches, 3,251,294 events and 4,299 players.
+The tutorials use the open-source [socceraction](https://github.com/ML-KULeuven/socceraction) Python library and the publicly available [Wyscout match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000).
+
+The dataset includes data for the 2017/2018 English Premier League, the 2017/2018 Spanish Primera División, the 2017/2018 German 1. Bundesliga, the 2017/2018 Italian Serie A, the 2017/2018 French Ligue 1, the 2018 FIFA World Cup and the UEFA Euro 2016. The dataset covers 1,941 matches, 3,251,294 events and 4,299 players.
+
+The [environment.yml](environment.yml) file lists the required Python dependencies. The notebooks are compatible with version `0.2.0` of the `socceraction` Python library. If a more recent version of the library is installed, the code may need to be adapted. 
 
 
 ## Content
