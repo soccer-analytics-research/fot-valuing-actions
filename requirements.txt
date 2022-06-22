@@ -1,7 +1,7 @@
 ipykernel==5.5.3
 ipywidgets==7.6.3
 matplotsoccer==0.0.8
-numpy==1.20.2
+numpy==1.22.0
 pandas==1.2.4
 pip==21.1
 pytables==3.6.1
